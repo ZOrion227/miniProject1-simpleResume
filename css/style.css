@@ -1,5 +1,5 @@
 .grid {
-    margin: 0px auto;
+    margin: 0 auto;
     max-width: 1200px;
     width: 100%;
 }
@@ -60,7 +60,12 @@
 }
 
 
-  
+  .Domination{
+      Color: black;
+      font-size: 30px;
+      background-color: Red;
+      background: linear-gradient(red,yellow)
+  }
 
    
   
@@ -70,6 +75,7 @@
 
 body{
     font-family: 'Lato', sans-serif;
-    color:#747704;
+    color:red;
     font-weight: 300;
+    background-color: Black;
 }
